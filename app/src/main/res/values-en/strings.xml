@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ESIEA Paris</string>
+    <string name="WelcomeMessage">Welcome on my application</string>
+    <string name="Setting">settings</string>
+    <string name="Help">Help</string>
+
+</resources>
